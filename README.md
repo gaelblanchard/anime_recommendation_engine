@@ -12,7 +12,7 @@ Develop, test and evaluate a recommendation engine with pyspark on the animelist
 How it works:
 
 Concepts Covered:
-Cosine Similarity, Jaccard Similarity, Collaborative Filtering, Recommendation Engine, Stratified Sampling, Train-Test Spit
+Cosine Similarity, Pearson's Correlation, Collaborative Filtering, Recommendation Engine, Stratified Sampling, Train-Test Spit
 
 Going Further:
 By applying sampling techniques such as [Synthetic Minority Over-sampling Technique](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/chawla02a-html/chawla2002.html), we can deal with the common imbalanced data phenomena that is prevalent in data.
